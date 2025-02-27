@@ -24,6 +24,10 @@ csptlib Project 是一个用于用于交通干线协调性能评估的工具库�
 2. 生成代码：
    ```bash
    python main.py generate --template python
+3. 一些视频教程：
+   """
+   billbili web: search "csptlib intro project"
+   """
 
 ---
 
