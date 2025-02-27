@@ -229,7 +229,7 @@ def output_stop_delay(single_rate_data: dict, inter_num: int, filename: str, pat
         seed_delay.append(round(sum(s_dealy_temp) / len(s_dealy_temp), 4))
     np.array(delaySet)
     np.array(seed_delay)
-    print('The average number of stops is:', round(stop_times / ((inter_num - 1) * num_veh)), 2)
+    print('The average number of stops is:', round(stop_times / ((inter_num - 1) * num_veh), 2))
     print('The number of arterial vehicles is:', num_veh)
     write_list_to_csv(delaySet, filename_=f'{filename}_veh_delay.csv', path_=path, stamp='all_veh')
     write_list_to_csv(seed_delay, filename_=f'{filename}_seed_avedelay.csv', path_=path, stamp='all_seed')
