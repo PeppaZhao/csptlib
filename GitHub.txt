@@ -1,1 +1,1 @@
-https://github.com/PeppaZhao/csptlib1.0.git
+https://github.com/PeppaZhao/csptlib1.git
