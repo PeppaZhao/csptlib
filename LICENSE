@@ -1,21 +1,37 @@
-MIT License
+Copyright (c) 2025 DataBase Group. Wust
 
-Copyright (c) 2025 Cheney Zhao
+Here's the professional legal English translation maintaining the original clause numbering structure:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Legal Declaration
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Disclaimer
+   (1) This software is provided "**AS IS**", the developer shall not be liable for any:  
+   (2) Data loss or business interruption damages  
+   (3) Special, indirect, or consequential damages  
+   (4) Liabilities arising from integration with third-party components (e.g. VISSIM)  
+
+2. Limitation of Liability
+   When used under the condition that the user has legally purchased a genuine VISSIM software license, we shall not bear any legal liability for losses caused by:  
+   (1) Use of unauthorized/cracked VISSIM software  
+   (2) Unauthorized modification of software code or configuration files  
+   (3) Non-compliance with operational manual requirements  
+   (4) Force majeure including natural disasters  
+
+4. Third-Party Declarations
+   This software maintains technical integration with PTV Group's VISSIM software, however:  
+   (1) It contains **no VISSIM source code or core algorithms**  
+   (2) It provides **no VISSIM activation/licensing services**  
+   (3) Users must independently ensure the **legal validity** of VISSIM licenses  
+
+5. Usage License
+   Users shall be deemed to have accepted this agreement through:  
+   (1) Installation/execution of the software with checking the "I have read and agree to the User Agreement" box  
+   (2) Continued use exceeding 72 hours without written objection  
+
+6. Violation Handling
+   We reserve the right to pursue legal action against users for:  
+   (1) Deployment on devices without valid VISSIM licenses  
+   (2) Indirect utilization of pirated VISSIM through this software  
+   (3) Uncertified use in high-risk environments including industrial control systems  
